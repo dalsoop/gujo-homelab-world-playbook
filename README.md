@@ -1,5 +1,10 @@
 # Gujo Homelab World Playbook
 
+> **Archived:** This module moved to
+> [`dalsoop/gujo-homelab/world`](https://github.com/dalsoop/gujo-homelab/tree/main/world).
+> Use or fork the single Gujo Homelab monorepo. This repository remains
+> read-only to preserve history.
+
 This is the one repository a Gujo Homelab operator owns and edits. It records
 the desired environment used to build installation media while the public
 [Gujo Homelab OS Installer](https://github.com/dalsoop/gujo-homelab-os-installer)
